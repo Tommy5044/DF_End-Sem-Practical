@@ -25,7 +25,7 @@ To ensure reliable monitoring, Wireshark must be properly configured — includi
 
 ### Step 1: Identify the Network Interface
 1. Open Wireshark → Capture → Options (Ctrl + K).  
-   ![alt text](./assets/Screenshot%202025-03-30%20222739.png)
+   ![alt text](./assets/Screenshot%20(32)-1.png)
 2. Select the correct network interface from the list (look for an active packet count).  
    ![alt text](./assets/Screenshot31.png)
 
